@@ -1,0 +1,3 @@
+SELECT SUM(POPULATION) AS SP
+FROM CITY
+WHERE  District = 'California';
