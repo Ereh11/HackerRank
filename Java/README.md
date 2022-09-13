@@ -8,7 +8,7 @@
 |[Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true)|
 |[Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=true)|
 |[Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem?isFullScreen=true)|
-|[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
+|[Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
