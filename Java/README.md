@@ -10,7 +10,7 @@
 |[Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem?isFullScreen=true)|
 |[Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true)|
 |[Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true)|
-|[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
+|[Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
