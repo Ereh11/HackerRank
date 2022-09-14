@@ -13,7 +13,7 @@
 |[Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem?isFullScreen=true)|
 |[Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem?isFullScreen=true)|
 |[Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem?isFullScreen=true)|
-|[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
+|[Java Substring](https://www.hackerrank.com/challenges/java-substring/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
