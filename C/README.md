@@ -9,7 +9,7 @@
 |[For Loop in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem?isFullScreen=true)|
 |[Sum of Digits of a Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem?isFullScreen=true)|
 |[Bitwise Operators](https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem?isFullScreen=true)|
-|[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
+|[Boxes through a Tunnel](https://www.hackerrank.com/challenges/too-high-boxes/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
