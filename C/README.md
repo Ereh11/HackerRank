@@ -5,7 +5,7 @@
 |[Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem?isFullScreen=true)|
 |[Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem?isFullScreen=true)|
 |[Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/problem?isFullScreen=true)|
-|[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
+|[Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
