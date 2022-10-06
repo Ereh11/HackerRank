@@ -14,7 +14,7 @@
 |[1D Arrays in C](https://www.hackerrank.com/challenges/1d-arrays-in-c/problem?isFullScreen=true)|
 |[Array Reversal](https://www.hackerrank.com/challenges/reverse-array-c/problem?isFullScreen=true)|
 |[Printing Tokens](https://www.hackerrank.com/challenges/printing-tokens-/problem?isFullScreen=true)|
-|[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
+|[Digit Frequency](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
