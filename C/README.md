@@ -13,7 +13,7 @@
 |[Small Triangles, Large Triangles](https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem?isFullScreen=true)|
 |[1D Arrays in C](https://www.hackerrank.com/challenges/1d-arrays-in-c/problem?isFullScreen=true)|
 |[Array Reversal](https://www.hackerrank.com/challenges/reverse-array-c/problem?isFullScreen=true)|
-|[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
+|[Printing Tokens](https://www.hackerrank.com/challenges/printing-tokens-/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
