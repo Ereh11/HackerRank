@@ -15,7 +15,10 @@
 |[Array Reversal](https://www.hackerrank.com/challenges/reverse-array-c/problem?isFullScreen=true)|
 |[Printing Tokens](https://www.hackerrank.com/challenges/printing-tokens-/problem?isFullScreen=true)|
 |[Digit Frequency](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem?isFullScreen=true)|
+|[Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
 |[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
-
+|[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
+|[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
+|[Classes](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)|
