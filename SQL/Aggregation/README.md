@@ -15,4 +15,5 @@
 |[Average Population](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true)|
 |[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true)|
 |[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true)|
-|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)|
+|[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true)|
+|[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true)|
