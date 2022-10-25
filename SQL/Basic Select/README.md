@@ -5,7 +5,7 @@
 |[Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true)|
 |[Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true)|
 |[Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true)|
-|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)|
+|[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true)|
 |[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)|
 |[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)|
 |[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)|
