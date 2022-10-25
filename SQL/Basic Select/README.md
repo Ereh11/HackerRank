@@ -9,7 +9,7 @@
 |[Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true)|
 |[Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true)|
 |[Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true)|
-|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)|
+|[Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true)|
 |[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)|
 |[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)|
 |[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)|
