@@ -11,4 +11,8 @@
 |[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)|
 |[The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true)|
 |[Population Density Differences](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true)|
-|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)|
+|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)|
+|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)|
+|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)|
+|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)|
+|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)|
