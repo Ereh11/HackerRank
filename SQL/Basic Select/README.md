@@ -7,7 +7,7 @@
 |[Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true)|
 |[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true)|
 |[Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true)|
-|[Weather Observation Station 3]https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true)|
+|[Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true)|
 |[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)|
 |[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)|
 |[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)|
