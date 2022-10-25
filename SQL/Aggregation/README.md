@@ -13,6 +13,6 @@
 |[Population Density Differences](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true)|
 |[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)|
 |[Average Population](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true)|
-|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)|
+|[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true)|
 |[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)|
 |[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)|
