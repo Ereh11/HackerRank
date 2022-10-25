@@ -10,5 +10,5 @@
 |[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true)|
 |[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)|
 |[The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true)|
-|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)|
+|[Population Density Differences](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true)|
 |[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)|
