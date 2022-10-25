@@ -1,4 +1,4 @@
-SELECT TOP 1 (salary * months), COUNT(employee_id)
+SELECT TOP 1 (months * salary) AS total, COUNT(*)
 FROM Employee
-GROUP BY salary, months
-HAVING (salary * months) = (SELECT MAX(salary * months) FROM Employee)
+GROUP BY months , salary
+ORDER BY total DESC;
