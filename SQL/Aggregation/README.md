@@ -9,3 +9,6 @@
 |[Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true)|
 |[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true)|
 |[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)|
+|[The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true)|
+|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)|
+|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)|
