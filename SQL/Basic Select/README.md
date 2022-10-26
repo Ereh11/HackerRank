@@ -19,5 +19,5 @@
 |[Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true)|
 |[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true)|
 |[Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true)|
-|[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true)|
+|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true)|
 
