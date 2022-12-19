@@ -6,7 +6,7 @@
 |[Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true)|
 |[Print Function](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true)|
 |[Write a function](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true)|
-|[Print Function](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true)|
+|[Loops](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true)|
 |[Print Function](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true)|
 |[Print Function](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true)|
 
