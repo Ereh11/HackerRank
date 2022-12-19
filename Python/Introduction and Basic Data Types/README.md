@@ -1,7 +1,7 @@
 | Problem Link |
 | ------------------|
 |[Tuples](https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true)|
-|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)|
+|[Lists](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true)|
 |[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true)|
 |[New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true)|
 |[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true)|
