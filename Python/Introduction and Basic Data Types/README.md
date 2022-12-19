@@ -9,7 +9,7 @@
 |[Loops](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true)|
 |[Python: Division](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true)|
 |[Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)|
-|[Print Function](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true)|
+|[Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true)|
 |[Print Function](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true)|
 |[Print Function](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true)|
 
