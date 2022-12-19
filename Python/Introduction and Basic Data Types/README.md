@@ -11,5 +11,5 @@
 |[Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)|
 |[Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true)|
 |[Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true)|
-|[Print Function](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true)|
+|[List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true)|
 
