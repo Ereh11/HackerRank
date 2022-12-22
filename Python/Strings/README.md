@@ -8,7 +8,7 @@
 |[String Validators](https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true)|
 |[Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem?isFullScreen=true)|
 |[Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem?isFullScreen=true)|
-|[Python: Division](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true)|
+|[Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem?isFullScreen=true)|
 |[Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)|
 |[Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true)|
 |[Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true)|
