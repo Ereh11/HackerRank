@@ -7,7 +7,7 @@
 |[Find a string](https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true)|
 |[String Validators](https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true)|
 |[Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem?isFullScreen=true)|
-|[Loops](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true)|
+|[Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem?isFullScreen=true)|
 |[Python: Division](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true)|
 |[Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)|
 |[Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true)|
