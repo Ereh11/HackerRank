@@ -1,7 +1,7 @@
 | Problem Link |
 | ------------------|
 |[sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true)|
-|[Lists](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true)|
+|[String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true)|
 |[Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true)|
 |[Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true)|
 |[Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true)|
