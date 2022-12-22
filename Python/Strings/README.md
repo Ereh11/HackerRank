@@ -5,7 +5,7 @@
 |[What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true)|
 |[Mutations](https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true)|
 |[Find a string](https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true)|
-|[Print Function](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true)|
+|[String Validators](https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true)|
 |[Write a function](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true)|
 |[Loops](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true)|
 |[Python: Division](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true)|
